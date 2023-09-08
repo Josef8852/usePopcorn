@@ -14,9 +14,15 @@ https://www.omdbapi.com/
 
 **Client:** React, TS, CSS and Vite .
 
-<img lign="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<div>
+ <img lign="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="public/vite.svg" />
+</div>
+
+<br/>
+<br/>
 
 ## Installation
 
