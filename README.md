@@ -30,8 +30,13 @@ Install Dependencies with npm
 
 ```bash
  npm install
+```
 
  Run the Project : 
+ 
+ ```bash
  npm run dev
 ```
+
+ 
     
